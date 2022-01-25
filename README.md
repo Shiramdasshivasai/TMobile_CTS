@@ -8,7 +8,7 @@ STEP-1:Showing the user entered name on webpage.
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/63459329/150918503-3d5cc78b-c10c-4037-a326-0559b4e744f3.png)
 
-STEP-2:Retrieving the employee data and showing it on the web page.
+STEP-2:Retrieving the employee data and showing it on the web page.Basically I added two records into the list manually through code.
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/63459329/150918843-875eeb83-3b0a-4944-a751-c221b1d13f97.png)
 
